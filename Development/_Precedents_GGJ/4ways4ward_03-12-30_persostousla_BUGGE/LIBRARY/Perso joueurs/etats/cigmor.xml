@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/etats/cigmor" itemID="54c4d034-000009b8" lastModified="1422184534">
+  <timeline>
+    <DOMTimeline name="cigmor">
+      <layers>
+        <DOMLayer name="Calque 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/etats/elements _der/cigmor.png">
+                  <matrix>
+                    <Matrix tx="-131" ty="-205"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

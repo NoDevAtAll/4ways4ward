@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/etats/p1intprem01" itemID="54c36f85-000004e4" lastModified="1422094271">
+  <timeline>
+    <DOMTimeline name="p1intprem01">
+      <layers>
+        <DOMLayer name="Calque 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="45" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="64" height="29.05" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="58" ty="191.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>INT1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="26" bitmapSize="520" face="ArialMT" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndPlay(6);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 1" color="#4FFF4F">
+          <frames/>
+        </DOMLayer>
+        <DOMLayer name="Calque 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/animations/laptamp01">
+                  <matrix>
+                    <Matrix ty="336.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.45" y="-168.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="25" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/animations/laptamp01">
+                  <matrix>
+                    <Matrix d="0.97308349609375" ty="337.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.45" y="-168.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/animations/laptamp01">
+                  <matrix>
+                    <Matrix ty="336.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.45" y="-168.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

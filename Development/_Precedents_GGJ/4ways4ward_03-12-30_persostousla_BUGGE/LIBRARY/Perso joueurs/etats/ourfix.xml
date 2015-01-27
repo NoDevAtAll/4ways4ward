@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/etats/ourfix" itemID="54c4cf9c-000009a1" lastModified="1422184567">
+  <timeline>
+    <DOMTimeline name="ourfix">
+      <layers>
+        <DOMLayer name="Calque 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/etats/elements _der/oursfix.png">
+                  <matrix>
+                    <Matrix tx="-191" ty="-436.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

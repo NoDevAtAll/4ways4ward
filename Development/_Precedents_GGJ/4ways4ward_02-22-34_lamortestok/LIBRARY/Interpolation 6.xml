@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Interpolation 6" itemID="514325e6-0000011e" symbolType="graphic" lastModified="1363355110">
+  <timeline>
+    <DOMTimeline name="Interpolation 6">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Phrases/phrase02">
+                  <matrix>
+                    <Matrix tx="-182.45" ty="-39.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

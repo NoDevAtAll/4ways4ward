@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/etats/cigfix" itemID="54c4cf85-0000099c" lastModified="1422184325">
+  <timeline>
+    <DOMTimeline name="cigfix">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/etats/elements _der/cigogne0001.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

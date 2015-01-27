@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/etats/p1marche01" itemID="54c36dd4-00000441" sourceFlashFilepath="../projetJVcraie02.fla" sourceLibraryItemHRef="lapcourse01" sourceLastModified="1363096016" lastModified="1422093780" lastUniqueIdentifier="3" sourceItemID="513e1a23-000000a1">
+  <timeline>
+    <DOMTimeline name="p1marche01">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/animations/jambcraie01" centerPoint3DX="1.45" centerPoint3DY="-33.9">
+                  <matrix>
+                    <Matrix tx="100.75" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-99.3" y="-53.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/animations/corpcraie01" selected="true" centerPoint3DX="-7.35" centerPoint3DY="-154.35">
+                  <matrix>
+                    <Matrix a="0.979156494140625" tx="-115.5" ty="-306.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="143.95" y="156.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.12"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

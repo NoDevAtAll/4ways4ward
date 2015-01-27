@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Passants/passagertamp02" itemID="51409caa-00000077" lastModified="1363360539">
+  <timeline>
+    <DOMTimeline name="passagertamp02">
+      <layers>
+        <DOMLayer name="Calque 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="1_png/pass01">
+                  <matrix>
+                    <Matrix a="1.00064086914063" d="0.999786376953125" ty="-231"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="1_png/pass02">
+                  <matrix>
+                    <Matrix a="1.00064086914063" d="0.999786376953125" ty="-231"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="1_png/pass03">
+                  <matrix>
+                    <Matrix a="1.00064086914063" d="0.999786376953125" ty="-233"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="1_png/pass04">
+                  <matrix>
+                    <Matrix a="1.00064086914063" d="0.999786376953125" ty="-232"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="1_png/pass05">
+                  <matrix>
+                    <Matrix a="1.00064086914063" d="0.999786376953125" ty="-232"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="1_png/pass06">
+                  <matrix>
+                    <Matrix a="1.00064086914063" d="0.999786376953125" ty="-232"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

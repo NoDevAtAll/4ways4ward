@@ -1,0 +1,282 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/etats/hammarche" itemID="54c40e05-00000243" lastModified="1422135272">
+  <timeline>
+    <DOMTimeline name="hammarche">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/elements/hamster0001.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0002.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0003.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0004.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0005.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0006.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/elements/hamster0007.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/elements/hamster0008.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0009.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0010.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0011.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0012.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0013.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0014.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0015.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0016.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0017.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0018.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0019.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0020.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0021.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0022.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0023.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0024.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0025.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0026.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0027.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0028.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0029.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/elements/hamster0030.png">
+                  <matrix>
+                    <Matrix tx="-168.05" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

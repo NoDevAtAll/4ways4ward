@@ -1,0 +1,413 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="niveau1" itemID="51125e6d-0000008b" linkageExportForAS="true" linkageClassName="niveau1" lastModified="1422127726">
+  <timeline>
+    <DOMTimeline name="niveau1">
+      <layers>
+        <DOMLayer name="Initialisation" color="#4FFF4F" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Tableaux" color="#9933CC" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// level
+var map:Array = [
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,3,0,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0],
+				 [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+				 ]
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Variables" color="#FFFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// variables déplacements
+var gravite:Number = 2;					// la gravité du jeu
+var vitesse:Number = 12;					// la vitesse du héro
+var sens:Number = 0; 					// la direction du héro sur X
+var droite:Boolean=false;
+var gauche:Boolean=false;
+var haut:Boolean=false;
+var bas:Boolean=false;
+var tir:Boolean=false;
+var T:int = 64// taille d'une tuile (carré)
+
+// variables mouvements
+var lateral:Boolean = false; 			// mouvement latéral 
+var vise:Boolean = false;				// le héro vise 
+var saute:Boolean = false ;				// le héro saute
+var aucune:Boolean = true 				// aucune action en cours
+
+// grille d'affichage
+var grille:MovieClip = new MovieClip();	// le conteneur du décor
+
+// variable d'humeur, source de game over
+var humeur:int= 100;
+
+// crée les personnages et la boucle
+var persoactuel:int = 1 // 1 = perso1, 2 = perso2, etc... jusqu'à 4
+
+// crée le perso
+
+var perso1:Perso1= new Perso1();
+perso1.x=900;							
+perso1.y=830;				
+var perso2:Perso2= new Perso2();
+perso2.x=1000;							
+perso2.y=830;
+var perso3:Perso3= new Perso3();
+perso3.x=1100;							
+perso3.y=830;
+var perso4:Perso4= new Perso4();
+perso4.x=1200;							
+perso4.y=830;
+var fond001:briquesfond001= new briquesfond001();			
+fond001.x=0;							
+fond001.y=250;							
+var pnj:passant= new passant();			
+pnj.x=470;							
+pnj.y=860;
+var phr:prase01= new prase01();			
+phr.x=476;							
+phr.y=412;
+var cach1:cache01= new cache01();			
+cach1.x=0;							
+cach1.y=250;
+var cach2:cache02= new cache02();			
+cach2.x=0;							
+cach2.y=250;							
+var fina:fin= new fin();			
+fina.x=0;							
+fina.y=250;							
+var cred:credit= new credit();			
+cred.x=0;							
+cred.y=250;							
+var debu:debut= new debut();			
+debu.x=0;							
+debu.y=250;							
+
+// liste d'affichage
+addChild(fond001)
+addChild(pnj)
+addChild(fina)
+addChild(cach1)
+addChild(cach2)
+addChild(grille)						// ajoute le décor 
+addChild(perso1)						
+addChild(perso2)						
+addChild(perso3)						
+addChild(perso4)
+addChild(debu)// ajoute le perso
+
+// crée le décor
+creeDecor()														]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Ecouteurs" color="#FF4FFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// ecouteurs
+stage.addEventListener(KeyboardEvent.KEY_DOWN, appuyer);	// appuie
+stage.addEventListener(KeyboardEvent.KEY_UP, relacher);		// relâche
+stage.addEventListener(Event.ENTER_FRAME, main);			// pilote
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 12" color="#FF4FFF" parentLayerIndex="0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[debu.addEventListener(MouseEvent.CLICK, deb1); 
+function deb1(event:MouseEvent):void {
+	removeChild(debu)
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Moteur" color="#4FFFFF" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Création du level" color="#808080" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// création du level
+function creeDecor():void{
+	/*for (var i:int=0; i<3; i++){					// boucle sur les 20 colonnes
+		for (var j:int=0; j<15; j++){				// boucle sur les 15 lignes de chaque colonne
+			if(map[i][j]>0)	{						// si la valeur de la tuile est supérieure à 0
+				var t:Tuiles = new Tuiles()			// crée une tuile
+				t.x= j*T;							// position sur X
+				t.y= i*T;							// position sur Y
+				t.gotoAndStop(map[i][j])			// frame à afficher
+				grille.addChild(t)					// ajout dela tuile à la grille
+			}
+		}
+	}*/
+}
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Touches" color="#4F80FF" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[// Spacebar = 32
+
+
+// Appuyer sur une touche
+function appuyer(event:KeyboardEvent):void {
+	//if (event.keyCode == 38) haut = 	false;				// avancer
+	//if (event.keyCode == 40) bas = 		false;				// reculer
+	if (event.keyCode == 38) {
+		//selection du personnage
+		//trace ("persoactuel avant  = " + persoactuel);
+		aucune = true;
+		mouvement(3);
+		if (persoactuel == 1) persoactuel = 2
+		else if (persoactuel == 2) persoactuel = 3
+		else if (persoactuel == 3) persoactuel = 4
+		else if (persoactuel == 4) persoactuel = 1;
+		//trace ("persoactuel apres  = " + persoactuel);
+	}
+	if (event.keyCode == 32) droite =  	true;				// droite
+	//if (event.keyCode == 37) gauche =  	true;				// gauche
+	//if (event.keyCode == 32) tir =  	false;				// tirer
+}
+
+// relâcher une touche
+function relacher(event:KeyboardEvent):void {
+	//if (event.keyCode == 38) haut = 	false;				// stop avancer
+	//if (event.keyCode == 40) bas = 		false;				// stop reculer
+	if (event.keyCode == 32) droite = 	false;				// stop droite
+	//if (event.keyCode == 37) gauche = 	false;				// stop gauche
+	//if (event.keyCode == 32) tir =  	false;				// tirer
+}
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Moteur" color="#FF4F4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// main
+function main(e:Event):void {
+
+	// variables
+	sens = int(droite)-int(gauche);					// orientation
+	aucune = !droite && !gauche && !haut && !bas	// aucune action
+	lateral = droite || gauche;						// mouvement latéral
+	vise = gravite==0 && bas;						// visée
+	
+	// déplacements 
+	deplacement(sens)								// déplacements du perso
+	
+	// mouvements
+	//if (sens) perso1.scaleX = sens;					// oriente le perso
+	if (aucune) mouvement(1);						// repos 
+	if (lateral) mouvement(2); 						// droite et gauche
+	//if (gravite<0) mouvement(3); 					// saute
+	//if (gravite>0) mouvement(4); 					// tombe
+	//if (vise) mouvement(5);							// vise
+	//if (vise && tir) perso1.anim.play();				// tire
+}
+if (humeur <= 0) {
+	trace ("GAME OVER !");
+}
+
+// animation du perso
+function mouvement(mouv):void {
+	if (persoactuel == 1) {
+		if (perso1.currentFrame != mouv) {				// si le mouvement est différent de celui à effectuer
+			perso1.gotoAndStop(mouv);					// effectue le nouveau mouvement
+		}
+	}
+	if (persoactuel == 2) {
+		if (perso2.currentFrame != mouv) {				// si le mouvement est différent de celui à effectuer
+			perso2.gotoAndStop(mouv);					// effectue le nouveau mouvement
+		}
+	}
+	if (persoactuel == 3) {
+		if (perso3.currentFrame != mouv) {				// si le mouvement est différent de celui à effectuer
+			perso3.gotoAndStop(mouv);					// effectue le nouveau mouvement
+		}
+	}
+	if (persoactuel == 4) {
+		if (perso4.currentFrame != mouv) {				// si le mouvement est différent de celui à effectuer
+			perso4.gotoAndStop(mouv);					// effectue le nouveau mouvement
+		}
+	}
+		
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Déplacements" color="#4FFF4F" parentLayerIndex="5" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+function deplacement(dx:int):void{
+
+	humeur = humeur - dx/10;
+	
+	if (persoactuel == 1) {
+		perso1.x += vitesse*dx;
+		perso1.barrehumeur.width = humeur;
+		perso1.barrehumeur.visible = true;
+		perso2.barrehumeur.visible = false;
+		perso3.barrehumeur.visible = false;
+		perso4.barrehumeur.visible = false;
+		
+	}
+	if (persoactuel == 2) {
+		perso2.x += vitesse*dx;
+		perso2.barrehumeur.width = humeur;
+		perso1.barrehumeur.visible = false;
+		perso2.barrehumeur.visible = true;
+		perso3.barrehumeur.visible = false;
+		perso4.barrehumeur.visible = false;
+	}
+	if (persoactuel == 3) {
+		perso3.x += vitesse*dx;
+		perso3.barrehumeur.width = humeur;
+		perso1.barrehumeur.visible = false;
+		perso2.barrehumeur.visible = false;
+		perso3.barrehumeur.visible = true;
+		perso4.barrehumeur.visible = false;
+	}
+	if (persoactuel == 4) {
+		perso4.x += vitesse*dx;
+		perso4.barrehumeur.width = humeur;
+		perso1.barrehumeur.visible = false;
+		perso2.barrehumeur.visible = false;
+		perso3.barrehumeur.visible = false;
+		perso4.barrehumeur.visible = true;
+	}
+
+	trace ("Humeur : " + humeur + " %");
+	
+	var metro:metropasse01= new metropasse01();			
+    metro.x=2000;							
+    metro.y=900;
+	var metro2:metropasse01= new metropasse01();			
+    metro2.x=1200;							
+    metro2.y=900;							
+	var pnj2:marcheur= new marcheur();			
+    pnj2.x=650;							
+    pnj2.y=862;
+	
+	var passager:passager01= new passager01();			
+    passager.x=1200;							
+    passager.y=830;	
+	
+	var Y:Number = perso1.y								// raccourci de programmation pour perso.x
+	var X:Number = perso1.x								// raccourci de programmation pour perso.x
+	var L:int;											// ligne (grille) du point bas du perso
+	var C:int = (X+32*dx)/T;							// côté (grille) du perso concerné par la colission
+	
+	// latéral							
+	for (L=(Y-32)/T; L<Y/T+1; L++) {					// vérifies toutes lignes (grille) sur lesquelles se tient le perso
+		if (map[L][C]==1) {								// si le bord renconte un bloc solide en latéral (prévoir multiples tuiles)
+			X = perso1.x = C*T+32-T*dx;                    // colle le perso au bord du bloc
+		}
+		if (map[L][C]==2 && !aucune) {								
+			addChild(passager);
+			addChild(metro);
+			removeChild(cach1)
+			map[L][C]=0;
+		}
+		if (map[L][C]==3 && !aucune) {								
+			addChild(pnj2);
+			addChild(metro2);
+			removeChild(cach2);
+			map[L][C]=0;
+		}
+		if (map[L][C]==4 && !aucune) {								
+			addChild(phr);
+			map[L][C]=0;
+		}
+	}
+
+	Y = perso1.y += gravite; 							// déplace le perso sur Y
+	
+	// tombe
+	for (C=(X-32)/T; C<(X+32)/T; C++) {					// vérifies toutes colonnes (grille) sur lesquelles se tient le perso	
+		if (map[L][C]==1 && perso1.y>=(L-1)*T) {			// blocs solides
+			perso1.y = (L-1)*T							// position du perso sur Y
+			gravite = -int(haut)*20						// annule et autorise le saut
+			return				
+		}
+	}
+	
+	// touche plafond
+	if (gravite<0) {									// si le perso saute
+		L = (Y-32)/T;									// case occupée par le haut du perso
+		for (C=(X-32)/T; C<(X+32)/T; C++) {				// cases occupées par les limites X du perso
+			if (map[L][C]>0) {							// si la case n'est pas vide
+				perso1.y = (L+2)*T-32					// position du perso sur Y
+				gravite=1;								// arrête le saut
+			}
+		}
+	}
+	
+	// gravite
+	if (gravite++>T) gravite=T							// limite la gravité max à la taille d'une tuile 
+}
+
+fina.addEventListener(MouseEvent.CLICK, deb); 
+function deb(event:MouseEvent):void {
+	addChild(cred)
+	addChild(perso1)
+	addChild(perso2)
+	addChild(perso3)
+	addChild(perso4)
+}
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

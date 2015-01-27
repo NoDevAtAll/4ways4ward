@@ -1,0 +1,132 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/Perso4" itemID="54c37083-0000062d" linkageExportForAS="true" linkageClassName="Perso4" lastModified="1422136525" lastUniqueIdentifier="51">
+  <timeline>
+    <DOMTimeline name="Perso4" currentFrame="2" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-15&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Stop" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="barre" name="barrehumeur" centerPoint3DX="359.2" centerPoint3DY="-423.75">
+                  <matrix>
+                    <Matrix tx="-40.8" ty="-448.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="400" y="24.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 17" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Anims" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="renfix" centerPoint3DX="14.5" centerPoint3DY="-191.05">
+                  <matrix>
+                    <Matrix tx="14" ty="-191.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="renmarche" centerPoint3DX="14.5" centerPoint3DY="-192.25">
+                  <matrix>
+                    <Matrix tx="14" ty="-192.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="renfix" selected="true" centerPoint3DX="14.5" centerPoint3DY="-191.05">
+                  <matrix>
+                    <Matrix tx="14" ty="-191.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="0.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/p1parle01" centerPoint3DX="-3" centerPoint3DY="-97">
+                  <matrix>
+                    <Matrix tx="-100.45" ty="-284"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="97.45" y="187"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/p1intprem01" selected="true" centerPoint3DX="4" centerPoint3DY="-98">
+                  <matrix>
+                    <Matrix tx="-93.45" ty="-285"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="97.45" y="187"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/p1intdeux01" centerPoint3DX="7" centerPoint3DY="-105">
+                  <matrix>
+                    <Matrix tx="-90.45" ty="-292"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="97.45" y="187"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Perso joueurs/etats/p1inttroi01" centerPoint3DX="5" centerPoint3DY="-106">
+                  <matrix>
+                    <Matrix tx="-92.45" ty="-293"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="97.45" y="187"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Ecrans menus/boutonface" itemID="51437738-000000df" lastModified="1363376427">
+  <timeline>
+    <DOMTimeline name="boutonface">
+      <layers>
+        <DOMLayer name="Calque 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[function onClic(pEvt:Event):void {
+    navigateToURL ( new URLRequest( "http://www.facebook.com/pages/Schmoll/340892392682518" ) );
+}
+fac.addEventListener(MouseEvent.CLICK, onClic);
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Ecrans menus/facebook" name="fac" symbolType="button">
+                  <transformationPoint>
+                    <Point x="34.45" y="-35.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

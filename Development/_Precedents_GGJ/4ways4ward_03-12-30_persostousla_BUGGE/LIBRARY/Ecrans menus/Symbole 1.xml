@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Ecrans menus/Symbole 1" itemID="51420167-000001db" symbolType="button" lastModified="1422146355">
+  <timeline>
+    <DOMTimeline name="Symbole 1">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-18" ty="-253.85"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#010101" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!760 4890[760 4950 721 5002!721 5002[664 5077 550 5077!550 5077[417 5077 375 4987!375 4987[362 4959 360 4925!360 4925|360 4897!360 4897[360 4809 423 4757!423 4757[478 4712 560 4712!560 4712[641 4712 698 4757!698 4757[760 4807 760 4890"/>
+                    <Edge cubics="!760 4890(;760,4940 725,5077 550,5077q760 4890Q760 4950q721 5002Q664 5077q550 5077);"/>
+                    <Edge cubics="!550 5077(;337,5077 360,4897 360,4897q550 5077Q417 5077q375 4987Q362 4959q360 4925Q360 4897q360 4897)360,4897;"/>
+                    <Edge cubics="!360 4897(;360,4647 760,4655 760,4890q360 4897Q360 4809q423 4757Q478 4712q560 4712Q641 4712q698 4757Q760 4807q760 4890)760,4890;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/barre" itemID="54c3d89e-000003e7" lastModified="1422123570">
+  <timeline>
+    <DOMTimeline name="barre">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0000FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2000 600|0 600!0 600|0 0!0 0|2000 0!2000 0|2000 600"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="10" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="46" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>:)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="16" bitmapSize="320" face="ArialMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

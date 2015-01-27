@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Decor/debut" itemID="51437927-000000e7" linkageExportForAS="true" linkageClassName="debut" symbolType="button" lastModified="1363426355">
+  <timeline>
+    <DOMTimeline name="debut">
+      <layers>
+        <DOMLayer name="Calque 8" color="#FF4F4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Ecrans menus/ecrantitre">
+                  <matrix>
+                    <Matrix tx="743.75" ty="159.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 5" color="#4FFFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Ecrans menus/ardoise" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="30.5560302734375" d="20" tx="-69.35" ty="37.85"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!38825 13237|-1387 13237!-1387 13237|-1387 757!-1387 757|38825 757!38825 757|38825 13237"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
