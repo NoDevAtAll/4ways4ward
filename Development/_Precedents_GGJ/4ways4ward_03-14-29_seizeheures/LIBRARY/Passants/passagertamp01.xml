@@ -1,0 +1,376 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Passants/passagertamp01" itemID="51409952-00000075" linkageExportForAS="true" linkageClassName="passager01" lastModified="1363376265" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="passagertamp01" currentFrame="29">
+      <layers>
+        <DOMLayer name="Calque 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[goto1.addEventListener(MouseEvent.CLICK, deb); 
+function deb(event:MouseEvent):void {
+	gotoAndStop(31);
+}
+
+goto2.addEventListener(MouseEvent.CLICK, de2); 
+function de2(event:MouseEvent):void {
+	gotoAndStop(32);
+}
+
+goto3.addEventListener(MouseEvent.CLICK, de3); 
+function de3(event:MouseEvent):void {
+	gotoAndStop(33);
+}
+
+goto4.addEventListener(MouseEvent.CLICK, de4); 
+function de4(event:MouseEvent):void {
+	gotoAndStop(34);
+}
+
+goto5.addEventListener(MouseEvent.CLICK, de5); 
+function de5(event:MouseEvent):void {
+	gotoAndStop(35);
+}
+
+goto6.addEventListener(MouseEvent.CLICK, de6); 
+function de6(event:MouseEvent):void {
+	gotoAndStop(36);
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto1" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-22" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto1" symbolType="button">
+                  <matrix>
+                    <Matrix tx="55.75" ty="686.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto2" symbolType="button">
+                  <matrix>
+                    <Matrix tx="197.9" ty="710.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto2" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-22" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto2" symbolType="button">
+                  <matrix>
+                    <Matrix tx="153.9" ty="686.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto3" symbolType="button">
+                  <matrix>
+                    <Matrix tx="297.8" ty="702.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto3" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-22" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto3" symbolType="button">
+                  <matrix>
+                    <Matrix tx="253.9" ty="678.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto4" symbolType="button">
+                  <matrix>
+                    <Matrix tx="93.95" ty="710.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto4" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-20.25" ty="33.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto4" symbolType="button">
+                  <matrix>
+                    <Matrix tx="576.05" ty="669.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 13" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto5" symbolType="button">
+                  <matrix>
+                    <Matrix tx="399.85" ty="702.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto5" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-22" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto5" symbolType="button">
+                  <matrix>
+                    <Matrix tx="342" ty="678.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 12" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto6" symbolType="button">
+                  <matrix>
+                    <Matrix tx="487.95" ty="702.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagerbouton01" name="goto6" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-22" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.85" y="-112.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Phrases/bu03">
+                  <matrix>
+                    <Matrix tx="-112.95" ty="-73.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Phrases/bul01">
+                  <matrix>
+                    <Matrix tx="-233.95" ty="-213.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Phrases/bul02">
+                  <matrix>
+                    <Matrix tx="-226.95" ty="-172"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Phrases/bul03">
+                  <matrix>
+                    <Matrix tx="-221.95" ty="-126.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Phrases/bu01">
+                  <matrix>
+                    <Matrix tx="-211.95" ty="-221.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Phrases/bu02">
+                  <matrix>
+                    <Matrix tx="-161.95" ty="-139.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Passants/passagertamp02">
+                  <matrix>
+                    <Matrix tx="-28" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

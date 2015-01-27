@@ -1,0 +1,354 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Perso joueurs/etats/ourmar" itemID="54c4cf99-000009a0" lastModified="1422184345">
+  <timeline>
+    <DOMTimeline name="ourmar" currentFrame="37">
+      <layers>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0001.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0002.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0003.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0004.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0005.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0006.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0007.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0008.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0009.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0010.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0011.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0012.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0013.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0014.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0015.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0016.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0017.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0018.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0019.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0020.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0021.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0022.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0023.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0024.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0025.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0026.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0027.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0028.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0029.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0030.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0031.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0032.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0033.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0034.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0035.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0036.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0037.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Perso joueurs/etats/elements_der/Copie de renard0038.png">
+                  <matrix>
+                    <Matrix tx="-168" ty="-224.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

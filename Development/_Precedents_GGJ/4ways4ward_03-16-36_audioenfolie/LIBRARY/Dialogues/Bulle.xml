@@ -1,0 +1,2054 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Dialogues/Bulle" itemID="54c4b229-00000436" lastModified="1422192067" lastUniqueIdentifier="91">
+  <timeline>
+    <DOMTimeline name="Bulle" currentFrame="324">
+      <layers>
+        <DOMLayer name="Calque 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="401" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Nom" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="98" name="Perso1 Wassily Ours" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="99" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="101" duration="98" name="Perso2 Edith Cigogne" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="199" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="201" duration="98" name="Perso3 Edvard Hamster" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="299" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="301" duration="100" name="Perso4 Ian Renard" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_1" centerPoint3DX="1.35" centerPoint3DY="-105">
+                  <matrix>
+                    <Matrix tx="-221.05" ty="-240.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_2" centerPoint3DX="-1.65" centerPoint3DY="-102">
+                  <matrix>
+                    <Matrix tx="-224.05" ty="-237.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_3" centerPoint3DX="3.35" centerPoint3DY="-92">
+                  <matrix>
+                    <Matrix tx="-245.9" ty="-227.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="249.25" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_4" centerPoint3DX="-2.65" centerPoint3DY="-99">
+                  <matrix>
+                    <Matrix tx="-225.05" ty="-241.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="142.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_5" centerPoint3DX="-4.65" centerPoint3DY="-100.65">
+                  <matrix>
+                    <Matrix tx="-227.05" ty="-243.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="143"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_6" centerPoint3DX="-5.65" centerPoint3DY="-97">
+                  <matrix>
+                    <Matrix tx="-228.05" ty="-232.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_7" centerPoint3DX="-7.65" centerPoint3DY="-93">
+                  <matrix>
+                    <Matrix tx="-230.05" ty="-228.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_8" centerPoint3DX="-6.65" centerPoint3DY="-75">
+                  <matrix>
+                    <Matrix tx="-229.05" ty="-210.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_9" centerPoint3DX="5.35" centerPoint3DY="-93.65">
+                  <matrix>
+                    <Matrix tx="-217.05" ty="-233.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="140"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_12" centerPoint3DX="-17.65" centerPoint3DY="-47">
+                  <matrix>
+                    <Matrix tx="-240.05" ty="-232.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="185.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_13" centerPoint3DX="-11.65" centerPoint3DY="-73">
+                  <matrix>
+                    <Matrix tx="-234.05" ty="-237.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="164.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_14" centerPoint3DX="-4.65" centerPoint3DY="-60">
+                  <matrix>
+                    <Matrix tx="-227.05" ty="-224.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="164.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_15" centerPoint3DX="-10.65" centerPoint3DY="-63">
+                  <matrix>
+                    <Matrix tx="-233.05" ty="-227.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="164.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_16" centerPoint3DX="-4.65" centerPoint3DY="-86.65">
+                  <matrix>
+                    <Matrix tx="-227.05" ty="-226.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="139.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_17" centerPoint3DX="-5.65" centerPoint3DY="-57.65">
+                  <matrix>
+                    <Matrix tx="-228.05" ty="-209.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="151.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_17-1" centerPoint3DX="-8.65" centerPoint3DY="-94.65">
+                  <matrix>
+                    <Matrix tx="-231.05" ty="-238.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="144.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_17-2" centerPoint3DX="-10.65" centerPoint3DY="-84.65">
+                  <matrix>
+                    <Matrix tx="-233.05" ty="-243.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="158.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_18" centerPoint3DX="-12.65" centerPoint3DY="-49">
+                  <matrix>
+                    <Matrix tx="-235.05" ty="-248.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="199.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_19" centerPoint3DX="-9.65" centerPoint3DY="-107">
+                  <matrix>
+                    <Matrix tx="-232.05" ty="-242.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_20" centerPoint3DX="-9.65" centerPoint3DY="-93">
+                  <matrix>
+                    <Matrix tx="-232.05" ty="-250.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="157.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/ours_fin" centerPoint3DX="0.35" centerPoint3DY="-103">
+                  <matrix>
+                    <Matrix tx="-222.05" ty="-238.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.4" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="46" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="47" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="48" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="51" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="56" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="61" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="62" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="63" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="64" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="65" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="67" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="68" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="72" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="74" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="76" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="77" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="78" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="79" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="80" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="81" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="82" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="83" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="84" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="85" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="86" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="87" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="88" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="90" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="91" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="92" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="93" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="94" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="95" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="96" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="97" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="98" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="99" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="101" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_01" centerPoint3DX="3" centerPoint3DY="-102">
+                  <matrix>
+                    <Matrix tx="-215.3" ty="-239.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="102" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_02" centerPoint3DY="-103">
+                  <matrix>
+                    <Matrix tx="-218.3" ty="-240.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_03" centerPoint3DX="1" centerPoint3DY="-103">
+                  <matrix>
+                    <Matrix tx="-217.3" ty="-240.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_04" centerPoint3DX="-7" centerPoint3DY="-105">
+                  <matrix>
+                    <Matrix tx="-225.3" ty="-242.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="105" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_05" centerPoint3DX="1" centerPoint3DY="-97">
+                  <matrix>
+                    <Matrix tx="-217.3" ty="-252.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="155.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="106" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_06" centerPoint3DX="16" centerPoint3DY="-102">
+                  <matrix>
+                    <Matrix tx="-202.3" ty="-239.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="107" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_07" centerPoint3DX="-6" centerPoint3DY="-95">
+                  <matrix>
+                    <Matrix tx="-224.3" ty="-232.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="108" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_08" centerPoint3DX="-8" centerPoint3DY="-82.65">
+                  <matrix>
+                    <Matrix tx="-226.3" ty="-246.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="164.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="109" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_09" centerPoint3DX="3" centerPoint3DY="-92">
+                  <matrix>
+                    <Matrix tx="-215.3" ty="-229.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_10" centerPoint3DX="-12" centerPoint3DY="-87">
+                  <matrix>
+                    <Matrix tx="-230.3" ty="-246.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="159.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="111" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_11" centerPoint3DX="-3.65" centerPoint3DY="-79">
+                  <matrix>
+                    <Matrix tx="-240.3" ty="-233.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="236.65" y="154.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="112" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_12" centerPoint3DX="-17" centerPoint3DY="-85.65">
+                  <matrix>
+                    <Matrix tx="-235.3" ty="-241.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="156"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="113" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_13" centerPoint3DX="-22" centerPoint3DY="-94">
+                  <matrix>
+                    <Matrix tx="-240.3" ty="-231.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="114" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_14" centerPoint3DX="-9" centerPoint3DY="-88">
+                  <matrix>
+                    <Matrix tx="-227.3" ty="-238.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="150.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="115" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_15" centerPoint3DX="-17" centerPoint3DY="-56.65">
+                  <matrix>
+                    <Matrix tx="-235.3" ty="-244.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="188.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="116" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_15" centerPoint3DX="-17" centerPoint3DY="-48.65">
+                  <matrix>
+                    <Matrix tx="-235.3" ty="-236.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="188.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="117" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_16" centerPoint3DX="-27" centerPoint3DY="-82.65">
+                  <matrix>
+                    <Matrix tx="-245.3" ty="-243.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="161.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="118" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_17" centerPoint3DX="-10" centerPoint3DY="-78">
+                  <matrix>
+                    <Matrix tx="-228.3" ty="-243.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="165.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="119" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_18" centerPoint3DX="-3" centerPoint3DY="-89">
+                  <matrix>
+                    <Matrix tx="-221.3" ty="-242.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="153.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="120" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_19" centerPoint3DX="12" centerPoint3DY="-84">
+                  <matrix>
+                    <Matrix tx="-206.3" ty="-241.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="157.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="121" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_20" centerPoint3DX="-2" centerPoint3DY="-79">
+                  <matrix>
+                    <Matrix tx="-220.3" ty="-238.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="159.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="122" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_21" centerPoint3DX="2.35" centerPoint3DY="-90">
+                  <matrix>
+                    <Matrix tx="-229.8" ty="-242.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="232.15" y="152.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="123" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_22" centerPoint3DX="-9" centerPoint3DY="-61">
+                  <matrix>
+                    <Matrix tx="-227.3" ty="-241.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="180.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="124" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_23" centerPoint3DX="-9" centerPoint3DY="-44.65">
+                  <matrix>
+                    <Matrix tx="-227.3" ty="-239.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="195.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="125" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_24" centerPoint3DX="-15" centerPoint3DY="-27.65">
+                  <matrix>
+                    <Matrix tx="-233.3" ty="-239.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="211.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="126" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/cigogne_fin" centerPoint3DX="-12" centerPoint3DY="-93">
+                  <matrix>
+                    <Matrix tx="-230.3" ty="-230.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="218.3" y="137.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="127" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="128" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="129" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="130" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="131" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="132" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="133" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="134" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="135" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="136" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="137" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="138" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="139" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="140" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="141" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="142" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="143" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="144" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="145" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="146" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="147" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="148" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="149" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="150" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="151" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="152" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="153" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="154" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="155" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="156" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="157" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="158" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="159" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="160" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="161" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="162" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="163" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="164" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="165" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="166" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="167" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="168" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="169" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="170" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="171" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="172" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="173" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="174" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="175" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="176" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="177" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="178" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="179" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="180" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="181" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="182" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="183" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="184" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="185" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="186" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="187" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="188" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="189" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="190" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="191" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="192" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="193" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="194" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="195" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="196" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="197" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="198" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="199" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="201" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_01" centerPoint3DX="-5" centerPoint3DY="-108">
+                  <matrix>
+                    <Matrix tx="-229.35" ty="-243.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="202" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_02" centerPoint3DX="-12" centerPoint3DY="-87.65">
+                  <matrix>
+                    <Matrix tx="-236.35" ty="-236.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="148.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="203" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_03" centerPoint3DX="-7" centerPoint3DY="-92">
+                  <matrix>
+                    <Matrix tx="-231.35" ty="-243.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="151.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="204" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_04" centerPoint3DX="-9" centerPoint3DY="-90">
+                  <matrix>
+                    <Matrix tx="-233.35" ty="-241.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="151.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="205" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_05" centerPoint3DX="-16" centerPoint3DY="-88">
+                  <matrix>
+                    <Matrix tx="-240.35" ty="-239.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="151.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="206" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_06" centerPoint3DX="-18" centerPoint3DY="-86.65">
+                  <matrix>
+                    <Matrix tx="-242.35" ty="-238.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="151.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="207" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_07" centerPoint3DX="-18" centerPoint3DY="-108">
+                  <matrix>
+                    <Matrix tx="-242.35" ty="-243.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="208" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_07" centerPoint3DX="1" centerPoint3DY="-97">
+                  <matrix>
+                    <Matrix tx="-223.35" ty="-232.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="209" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_08" centerPoint3DX="-18" centerPoint3DY="-81.65">
+                  <matrix>
+                    <Matrix tx="-242.35" ty="-246.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="164.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="210" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_09" centerPoint3DX="-15" centerPoint3DY="-86">
+                  <matrix>
+                    <Matrix tx="-239.35" ty="-237.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="151.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="211" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_10" centerPoint3DX="-11" centerPoint3DY="-100">
+                  <matrix>
+                    <Matrix tx="-235.35" ty="-247"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="147"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="212" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_11" centerPoint3DX="-6" centerPoint3DY="-102.65">
+                  <matrix>
+                    <Matrix tx="-230.35" ty="-244.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="142.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="213" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_12" centerPoint3DX="-13" centerPoint3DY="-74">
+                  <matrix>
+                    <Matrix tx="-237.35" ty="-243.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="169.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="214" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_13" centerPoint3DX="-18" centerPoint3DY="-71.65">
+                  <matrix>
+                    <Matrix tx="-242.35" ty="-242.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="170.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="215" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_14" centerPoint3DX="-14" centerPoint3DY="-70.65">
+                  <matrix>
+                    <Matrix tx="-238.35" ty="-255.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="184.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="216" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_15" centerPoint3DX="-16" centerPoint3DY="-71.65">
+                  <matrix>
+                    <Matrix tx="-240.35" ty="-254.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="183.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="217" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_16" centerPoint3DX="-9" centerPoint3DY="-103">
+                  <matrix>
+                    <Matrix tx="-233.35" ty="-248.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="145.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="218" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_17" centerPoint3DX="-28" centerPoint3DY="-103">
+                  <matrix>
+                    <Matrix tx="-252.35" ty="-238.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="219" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/hamster_fin" centerPoint3DY="-103">
+                  <matrix>
+                    <Matrix tx="-224.35" ty="-243.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.35" y="140.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="220" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="221" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="222" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="223" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="224" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="225" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="226" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="227" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="228" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="229" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="230" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="231" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="232" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="233" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="234" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="235" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="236" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="237" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="238" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="239" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="240" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="241" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="242" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="243" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="244" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="245" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="246" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="247" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="248" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="249" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="250" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="251" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="252" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="253" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="254" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="255" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="256" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="257" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="258" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="259" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="260" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="261" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="262" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="263" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="264" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="265" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="266" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="267" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="268" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="269" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="270" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="271" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="272" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="273" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="274" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="275" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="276" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="277" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="278" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="279" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="280" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="281" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="282" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="283" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="284" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="285" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="286" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="287" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="288" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="289" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="290" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="291" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="292" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="293" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="294" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="295" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="296" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="297" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="298" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="299" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="301" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_01" centerPoint3DX="-8.65" centerPoint3DY="-97.65">
+                  <matrix>
+                    <Matrix tx="-232.5" ty="-255.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="157.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="302" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_02" centerPoint3DX="-9.65" centerPoint3DY="-92">
+                  <matrix>
+                    <Matrix tx="-233.5" ty="-245.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="153.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="303" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_03" centerPoint3DX="-3.65" centerPoint3DY="-91.65">
+                  <matrix>
+                    <Matrix tx="-227.5" ty="-245.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="154.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="304" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_04" centerPoint3DX="-1.65" centerPoint3DY="-88.65">
+                  <matrix>
+                    <Matrix tx="-225.5" ty="-242.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="154.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="305" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_05" centerPoint3DX="-1.65" centerPoint3DY="-67.65">
+                  <matrix>
+                    <Matrix tx="-225.5" ty="-235.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="168.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="306" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_06" centerPoint3DX="-1" centerPoint3DY="-61">
+                  <matrix>
+                    <Matrix tx="-229.7" ty="-242.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="228.7" y="181.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="307" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_07" centerPoint3DX="-11.65" centerPoint3DY="-69">
+                  <matrix>
+                    <Matrix tx="-235.5" ty="-255.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="186.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="308" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_08" centerPoint3DX="-15.65" centerPoint3DY="-70">
+                  <matrix>
+                    <Matrix tx="-239.5" ty="-236.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="166.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="309" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_09" centerPoint3DX="10.35" centerPoint3DY="-119">
+                  <matrix>
+                    <Matrix tx="-226.35" ty="-254.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="236.7" y="135.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="310" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_10" centerPoint3DX="-19.65" centerPoint3DY="-89.65">
+                  <matrix>
+                    <Matrix tx="-247.85" ty="-243.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="228.2" y="154.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="311" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_11" centerPoint3DX="-9.65" centerPoint3DY="-72">
+                  <matrix>
+                    <Matrix tx="-233.5" ty="-239.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="167.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="312" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_12" centerPoint3DX="-3.65" centerPoint3DY="-80">
+                  <matrix>
+                    <Matrix tx="-227.5" ty="-237.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="157.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="313" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_13" centerPoint3DX="-11.65" centerPoint3DY="-59">
+                  <matrix>
+                    <Matrix tx="-235.5" ty="-239.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="180.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="314" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_14" centerPoint3DX="-2.65" centerPoint3DY="-70">
+                  <matrix>
+                    <Matrix tx="-226.5" ty="-237.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="167.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="315" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_15" centerPoint3DX="-2.65" centerPoint3DY="-73">
+                  <matrix>
+                    <Matrix tx="-226.5" ty="-240.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="167.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="316" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_16" centerPoint3DX="-0.65" centerPoint3DY="-74">
+                  <matrix>
+                    <Matrix tx="-224.5" ty="-257.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="183.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_17" centerPoint3DX="-1.65" centerPoint3DY="-84">
+                  <matrix>
+                    <Matrix tx="-225.5" ty="-240.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="156.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="318" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_18" centerPoint3DX="-11.65" centerPoint3DY="-88.65">
+                  <matrix>
+                    <Matrix tx="-235.5" ty="-241.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="152.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="319" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_19" centerPoint3DX="-11.65" centerPoint3DY="-64">
+                  <matrix>
+                    <Matrix tx="-235.5" ty="-237.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="173.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="320" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_20" centerPoint3DX="1.35" centerPoint3DY="-87.65">
+                  <matrix>
+                    <Matrix tx="-222.5" ty="-241.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="154.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="321" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_21" centerPoint3DX="-4.65" centerPoint3DY="-96.65">
+                  <matrix>
+                    <Matrix tx="-228.5" ty="-248.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="151.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="322" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_22" centerPoint3DX="-8.65" centerPoint3DY="-81">
+                  <matrix>
+                    <Matrix tx="-232.5" ty="-258.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="177.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="323" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_23" centerPoint3DX="1.35" centerPoint3DY="-89">
+                  <matrix>
+                    <Matrix tx="-222.5" ty="-247.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="158.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="324" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Bulles/renard_fin" centerPoint3DX="7.35" centerPoint3DY="-113.65">
+                  <matrix>
+                    <Matrix tx="-216.5" ty="-251.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.85" y="137.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="325" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="326" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="327" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="328" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="329" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="330" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="331" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="332" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="333" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="334" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="335" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="336" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="337" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="338" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="339" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="340" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="341" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="342" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="343" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="344" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="345" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="346" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="347" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="348" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="349" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="350" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="351" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="352" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="353" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="354" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="355" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="356" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="357" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="358" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="359" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="360" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="361" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="362" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="363" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="364" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="365" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="366" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="367" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="368" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="369" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="370" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="371" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="372" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="373" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="374" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="375" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="376" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="377" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="378" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="379" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="380" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="381" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="382" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="383" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="384" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="385" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="386" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="387" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="388" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="389" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="390" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="391" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="392" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="393" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="394" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="395" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="396" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="397" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="398" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="399" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="400" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

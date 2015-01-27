@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Metros/metropasse01" itemID="51408e36-0000006f" linkageExportForAS="true" linkageClassName="metropasse01" lastModified="1363369032" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="metropasse01" currentFrame="39">
+      <layers>
+        <DOMLayer name="Calque 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="39" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Calque 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="38" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Metros/metro">
+                  <matrix>
+                    <Matrix tx="68.55" ty="-438.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="578.4" y="225.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Metros/metro">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="-2216" ty="-436.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="578.4" y="225.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

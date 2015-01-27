@@ -1,0 +1,291 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_nivsursequence" itemID="54c4413f-0000044c" lastModified="1422194321">
+  <timeline>
+    <DOMTimeline name="_nivsursequence">
+      <layers>
+        <DOMLayer name="Initialisation" color="#4FFF4F" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Calque 2" color="#9933CC" parentLayerIndex="0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!14675 -5961[13627 -6167 12632 -6795!12632 -6795[12597 -8417 14341 -8755!14341 -8755[15670 -7798 14768 -6061!14768 -6061[14737 -6003 14675 -5961"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Tableaux" color="#9933CC" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// level
+var map:Array = [
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
+				 [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+				 ]
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Variables" color="#FFFF4F" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// variables déplacements
+var gravite:Number = 1;					// la gravité du jeu
+var vitesse:Number = 12;					// la vitesse du héro
+var sens:Number = 0; 					// la direction du héro sur X
+var droite:Boolean=false;
+var gauche:Boolean=false;
+var haut:Boolean=false;
+var bas:Boolean=false;
+var tir:Boolean=false;
+var T:int = 64// taille d'une tuile (carré)
+
+// var distanceparcourue = 0;				// Distance parcourue par les personnages
+
+// variables mouvements
+var lateral:Boolean = false; 			// mouvement latéral 
+var vise:Boolean = false;				// le héro vise 
+var saute:Boolean = false ;				// le héro saute
+var aucune:Boolean = true 				// aucune action en cours
+
+// grille d'affichage
+var grille:MovieClip = new MovieClip();	// le conteneur du décor
+
+// crée le perso
+
+var perso:niveau1= new niveau1();			// le clip du perso
+perso.x=500;							// sa position sur X
+perso.y=830;							// sa position sur Y
+//perso.width = perso.width * .8;
+//perso.height = perso.height * .8;
+
+// liste d'affichage
+addChild(grille)						// ajoute le décor 
+addChild(perso)							// ajoute le perso
+
+
+// crée le décor
+creeDecor()														]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Ecouteurs" color="#FF4FFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// ecouteurs
+stage.addEventListener(KeyboardEvent.KEY_DOWN, appuyer);	// appuie
+stage.addEventListener(KeyboardEvent.KEY_UP, relacher);		// relâche
+stage.addEventListener(Event.ENTER_FRAME, main);			// pilote
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Moteur" color="#4FFFFF" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Création du level" color="#808080" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[// i c'est le premier paramètre du tableau, les lignes
+// j c'est le second paramètre dans le tableau, les colonnes
+
+
+
+
+// création du level
+function creeDecor():void{
+	for (var i:int=0; i<12; i++){					// boucle sur les 20 colonnes
+		for (var j:int=0; j<40; j++){				// boucle sur les 15 lignes de chaque colonne
+			if(map[i][j]>0)	{						// si la valeur de la tuile est supérieure à 0
+				var t:Tuiles = new Tuiles()			// crée une tuile
+				t.x= j*T;							// position sur X
+				t.y= i*T;							// position sur Y
+				t.gotoAndStop(map[i][j])			// frame à afficher
+				grille.addChild(t)					// ajout dela tuile à la grille
+			}
+		}
+	}
+}
+
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Touches" color="#4F80FF" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[// Spacebar = 32
+// Droite = 37
+
+// Appuyer sur une touche
+function appuyer(event:KeyboardEvent):void {
+	//if (event.keyCode == 38) haut = 	false;				// avancer
+	//if (event.keyCode == 40) bas = 		false;				// reculer
+	//if (event.keyCode == 37) droite =  	true;				// droite
+	if (event.keyCode == 32)
+		if (perso.mort == false) {
+			gauche =  	true;				// gauche
+		}
+	//if (event.keyCode == 32) tir =  	false;				// tirer
+}
+
+// relâcher une touche
+function relacher(event:KeyboardEvent):void {
+	//if (event.keyCode == 38) haut = 	false;				// stop avancer
+	//if (event.keyCode == 40) bas = 		false;				// stop reculer
+	//if (event.keyCode == 37) droite = 	false;				// stop droite
+	if (event.keyCode == 32) gauche = 	false;				// stop gauche
+	//if (event.keyCode == 32) tir =  	false;				// tirer
+}
+
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Moteur" color="#FF4F4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+// main
+function main(e:Event):void {
+
+	// variables
+	sens = int(droite)-int(gauche);					// orientation
+	aucune = !droite && !gauche && !haut && !bas	// aucune action
+	lateral = droite || gauche;						// mouvement latéral
+	vise = gravite==0 && bas;						// visée
+	
+	// déplacements 
+	deplacement(sens)								// déplacements du perso
+	/*
+	// mouvements
+	if (sens) perso.scale = sens;					// oriente le perso
+	if (aucune) mouvement(1);						// repos 
+	if (lateral) mouvement(1); 						// droite et gauche
+	if (gravite<0) mouvement(1); 					// saute
+	if (gravite>0) mouvement(1); 					// tombe
+	if (vise) mouvement(5);							// vise
+	if (vise && tir) perso.anim.play();				// tire */
+}
+/*
+// animation du perso
+function mouvement(mouv):void {
+	if (perso.currentFrame != mouv) {				// si le mouvement est différent de celui à effectuer
+		perso.gotoAndStop(mouv);					// effectue le nouveau mouvement
+	}
+}*/]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Déplacements" color="#4FFF4F" parentLayerIndex="5" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[
+function deplacement(dx:int):void{
+	
+	perso.x += 3*dx; 								// déplace le perso sur X
+	
+	/*if (perso.persoactuel == 1) {
+		perso.x = -perso.perso1.x; 								// déplace le perso total sur X perso1
+	}
+	if (perso.persoactuel == 2) {
+		perso.x = -perso.perso2.x; 								// déplace le perso total sur X perso2
+	}
+	if (perso.persoactuel == 3) {
+		perso.x = -perso.perso3.x; 								// déplace le perso total sur X perso3
+	}
+	if (perso.persoactuel == 4) {
+		perso.x = -perso.perso4.x; 								// déplace le perso total sur X perso4
+	}*/
+	
+	//var Y:Number = perso.y								// raccourci de programmation pour perso.x
+	//var X:Number = perso.x							// raccourci de programmation pour perso.x
+	//var L:int = 2;											// ligne (grille) du point bas du perso
+	//var C:int = 2;							// côté (grille) du perso concerné par la colission
+	//var C:int = (X+32*dx)/T;							// côté (grille) du perso concerné par la colission
+	
+	/* latéral							
+	//for (L=(Y-32)/T; L<Y/T+1; L++) {					// vérifies toutes lignes (grille) sur lesquelles se tient le perso
+		trace ("CHECK CHECK - L = " + L + " - C = " + C);
+		if (map[L][C]==1) {								// si le bord renconte un bloc solide en latéral (prévoir multiples tuiles)
+			X = perso.x = C*T+32-T*dx;					// colle le perso au bord du bloc
+			trace ("LA UN BLOC - L = " + L + " - C = " + C);
+		}
+	}*/
+
+	//Y = perso.y += gravite; 							// déplace le perso sur Y
+	
+	// tombe
+	/*for (C=(X-32)/T; C<(X+32)/T; C++) {					// vérifies toutes colonnes (grille) sur lesquelles se tient le perso	
+		if (map[L][C]==1 && perso.y>=(L-1)*T) {			// blocs solides
+			perso.y = (L-1)*T							// position du perso sur Y
+			gravite = -int(haut)*16						// annule et autorise le saut
+			return				
+		}
+	}*/
+	
+	// touche plafond
+	/*if (gravite<0) {									// si le perso saute
+		L = (Y-32)/T;									// case occupée par le haut du perso
+		for (C=(X-32)/T; C<(X+32)/T; C++) {				// cases occupées par les limites X du perso
+			if (map[L][C]>0) {							// si la case n'est pas vide
+				perso.y = (L+2)*T-32					// position du perso sur Y
+				gravite=1;								// arrête le saut
+			}
+		}
+	}*/
+	
+	// gravite
+	//if (gravite++>T) gravite=T							// limite la gravité max à la taille d'une tuile
+}]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

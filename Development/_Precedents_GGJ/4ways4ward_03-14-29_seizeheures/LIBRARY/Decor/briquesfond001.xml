@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Decor/briquesfond001" itemID="54c4e05a-000003f5" linkageExportForAS="true" linkageClassName="briquesfond001" lastModified="1422192528">
+  <timeline>
+    <DOMTimeline name="briquesfond001">
+      <layers>
+        <DOMLayer name="Calque 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Decor/dec001.png">
+                  <matrix>
+                    <Matrix tx="-91.95" ty="-300"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
